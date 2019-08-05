@@ -7,4 +7,4 @@ Documentação:
 
 Protótipo: https://www.quant-ux.com/#/apps/5caba957e2fb53724febd9e9.html
 
-Estágio atual: 
+Estágio atual: Telas prontas, ligação do firebase estabelecida, parte do login pronta... 
